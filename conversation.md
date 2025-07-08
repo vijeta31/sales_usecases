@@ -29,7 +29,7 @@ Detects objection patterns specific to technical buyers
 Measures "talk ratio" to identify dominated conversations
 Flags emotional shifts during pricing discussions
 
-How This Works for Fluke
+How This Works for company
 Example Emotional Capture:
 Call Analysis: Demo with Semiconductor Corp
 Duration: 47 minutes
@@ -89,7 +89,7 @@ Track sentiment trends over deal lifecycle
 Phase 3: Advanced emotional intelligence
 
 Implement Sybill.ai or similar for deeper analysis
-Train on Fluke-specific conversation patterns
+Train on company-specific conversation patterns
 Create playbooks based on emotional journeys
 
 The Bottom Line
