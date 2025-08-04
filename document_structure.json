@@ -1,0 +1,30 @@
+{
+  "id": "doc_12345",
+  "partitionKey": "customer_456",
+  "documentType": "email",
+  "originalContent": "...",
+  "chunks": [
+    {
+      "chunkId": "chunk_1",
+      "vectorId": "vec_123", // Reference to AI Search
+      "position": 0,
+      "overlapWithNext": 128
+    }
+  ],
+  "metadata": {
+    "customer": {
+      "id": "customer_456",
+      "tier": "enterprise",
+      "historicalIssues": ["billing", "access"]
+    },
+    "product": {
+      "id": "product_789",
+      "category": "billing_system"
+    },
+    "extractedEntities": {
+      "painPoints": ["incorrect_charges", "system_downtime"],
+      "sentiment": -0.7,
+      "urgency": "high"
+    }
+  }
+}
